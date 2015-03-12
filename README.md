@@ -15,7 +15,7 @@ explanation of the packaging format.
 I extracted the qdk files manually by inspecting the shell script packed
 onto the front of the qdk qpkg. For more info on how this was done see
 [this blog
-post](http://deferred.io/deferred.io/posts/qnap-qdk-qpkg-and-the-gpl/).
+post](http://deferred.io/posts/qnap-qdk-qpkg-and-the-gpl/).
 
 ## filing bugs
 
